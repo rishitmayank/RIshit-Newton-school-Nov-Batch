@@ -3,6 +3,7 @@ My solutions to Assignments
 
 
 
+<label><input type="checkbox" id="checkbox" name="address" value="Have you ever lived with a Dog before?">Have you ever lived with a Dog before?</label>
 
 
 
